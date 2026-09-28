@@ -178,23 +178,4 @@ Enrolment No.: `A914150825005` · Class/Section: `BCA(HR)2025-29`
 
 ## 📄 License
 
-Copyright (c) 2026 AWANSH KHATI. All Rights Reserved.
-
-This software and its source code (the "Software") are the exclusive property
-of the copyright holder. The Software is made publicly visible for viewing
-and academic evaluation purposes only.
-
-No permission is granted to any person to use, copy, modify, merge, publish,
-distribute, sublicense, sell, or create derivative works from the Software,
-in whole or in part, without prior written permission from the copyright
-holder.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-For permission requests, contact: veanxasan@gmail.com
-
+Free to use for education purposes
