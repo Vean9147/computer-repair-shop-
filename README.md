@@ -173,9 +173,8 @@ To select a record for editing, click it in the list on the right; its details l
 
 ## 👤 Author
 
-**Your Name**
-Enrolment No.: `XXXXXXXX` · Class/Section: `XXXX`
-GitHub: [@your-username](https://github.com/your-username)
+AWANSH KHATI
+Enrolment No.: `A914150825005` · Class/Section: `BCA(HR)2025-29`
 
 ## 📄 License
 
